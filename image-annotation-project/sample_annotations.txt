@@ -1,0 +1,5 @@
+image1.jpg,person,50,60,200,300
+image1.jpg,phone,220,80,300,200
+image2.jpg,car,30,50,400,300
+image3.jpg,person,100,120,250,400
+image3.jpg,bag,260,200,350,350

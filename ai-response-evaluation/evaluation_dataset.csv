@@ -1,0 +1,10 @@
+prompt,response,rating,reason
+"Explain gravity","Gravity is a force that attracts objects toward each other.",5,"Accurate and clear"
+"What is 2+2?","5",1,"Incorrect"
+"Define photosynthesis","Process plants use sunlight to make food.",5,"Correct"
+"What is AI?","Artificial Intelligence",4,"Correct but brief"
+"What is 10/2?","5",5,"Correct"
+"What is capital of France?","Berlin",1,"Incorrect"
+"What is machine learning?","Learning from data",5,"Accurate"
+"What is electricity?","Flow of charge",5,"Correct"
+"What is 7-2?","10",1,"Incorrect"

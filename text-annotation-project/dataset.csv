@@ -1,0 +1,31 @@
+text,label
+"This product is amazing!",Positive
+"I love using this app every day",Positive
+"Absolutely fantastic experience",Positive
+"This is the best purchase I’ve made",Positive
+"Very satisfied with the service",Positive
+"I hate this product",Negative
+"This is the worst app ever",Negative
+"Completely useless and frustrating",Negative
+"I regret buying this",Negative
+"Terrible experience overall",Negative
+"It's okay, not great",Neutral
+"Average performance",Neutral
+"Nothing special about it",Neutral
+"It works as expected",Neutral
+"Not bad, not good either",Neutral
+"The interface is clean and easy to use",Positive
+"Customer support was very helpful",Positive
+"The quality exceeded my expectations",Positive
+"Fast delivery and good packaging",Positive
+"I’m impressed with the performance",Positive
+"The app crashes too often",Negative
+"Very slow and unresponsive",Negative
+"Waste of money",Negative
+"I encountered many bugs",Negative
+"Does not work as advertised",Negative
+"The design is decent",Neutral
+"It’s functional but needs improvement",Neutral
+"Moderate quality product",Neutral
+"No strong feelings about it",Neutral
+"It’s fine for basic use",Neutral
